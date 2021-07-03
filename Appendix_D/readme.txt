@@ -15,7 +15,7 @@ Folder content:
 
 Zipi8 is a PicoBlaze compatible soft-core processors developed in Electrical Engineering Department of Chulalongkorn University of Thailand. 
 
-Under linux compile:
+Under Linux compile:
 
 $ g++ -o hex2vhd hex2vhd_lattice.cpp
 
